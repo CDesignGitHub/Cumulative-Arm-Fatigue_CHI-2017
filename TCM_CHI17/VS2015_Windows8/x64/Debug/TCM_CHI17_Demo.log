@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\dropbox_2\dropbox\code release\tcm_chi17_release\vs2015_windows8\main.cpp(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  TCM_CHI17_Demo.vcxproj -> D:\Dropbox_2\Dropbox\code release\TCM_CHI17_Release\VS2015_Windows8\x64\Debug\TCM_CHI17_Demo.exe
+  TCM_CHI17_Demo.vcxproj -> D:\Dropbox_2\Dropbox\code release\TCM_CHI17_Release\VS2015_Windows8\x64\Debug\TCM_CHI17_Demo.pdb (Full PDB)

@@ -1,6 +1,6 @@
 # Cumulative Arm Fatigue and Biomechanical Arm Analysis
 This project includes the impementation of cumulative fatigue model and biomechanical arm analysis. 
-This project consists of C/C++ headers, source codes, and closed-source library to compute shourlder torques and cumulative arm fatigue (three-compartment muscle states).
+This project consists of C/C++ headers, source codes, and closed-source library to compute shoulder torques and cumulative arm fatigue (three-compartment muscle states).
 We provide an example project where an upper body joint tracking data ("KinectSkeletonData.dat") is loaded to compute shoulder joint torque and three-compartment muscle states.
 The results are stored in a data file ("result.dat") and can be further displayed using MATLAB scripts (see folder "Matlab code").
 This project is still under development and will be progressively updated.

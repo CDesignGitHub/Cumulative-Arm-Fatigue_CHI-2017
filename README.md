@@ -6,7 +6,7 @@ The results are stored in a data file ("result.dat") and can be further displaye
 This project is still under development and will be progressively updated.
 Please send any question or request to Sujin Jang (steve.sujin.jang[at]gmail.com) or Ana Villanueva (villana[at]purdue.edu).
 
-# Requirements
+# Development Environment
 1. Compiler: MS Visual Studio 2013/2015 (C/C++)
 2. OS: MS Windows 8
 3. (Optional) Matlab for plotting results

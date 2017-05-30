@@ -9,7 +9,7 @@ Please send any question or request to Sujin Jang (steve.sujin.jang[at]gmail.com
 # Development Environment
 1. Compiler: MS Visual Studio 2013/2015 (C/C++)
 2. OS: MS Windows 8
-3. (Optional) Matlab for plotting results
+3. Matlab R2016b for plotting results
 
 # Acknowledgement 
 Please cite the following publication when you intend to use it for your research:

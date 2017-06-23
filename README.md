@@ -4,7 +4,7 @@ This project consists of C/C++ headers, source codes, and closed-source library 
 We provide an example project where an upper body joint tracking data ("KinectSkeletonData.dat") is loaded to compute shoulder joint torque and three-compartment muscle states.
 The results are stored in a data file ("result.dat") and can be further displayed using MATLAB scripts (see folder "Matlab code").
 This project is still under development and will be progressively updated.
-Please send any question or request to Sujin Jang (steve.sujin.jang[at]gmail.com) or Ana Villanueva (villana[at]purdue.edu).
+Please send any question or request to Sujin Jang (sujin.steve.jang[at]gmail.com) or Ana Villanueva (villana[at]purdue.edu).
 
 # Development Environment
 1. Compiler: MS Visual Studio 2013/2015 (C/C++)
